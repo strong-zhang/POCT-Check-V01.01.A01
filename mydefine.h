@@ -1,7 +1,7 @@
 #ifndef __MYDEFINE_H
 #define __MYDEFINE_H
 
-unsigned char Version_Str[]="V1.0.1";								//版本号
+unsigned char Version_Str[]="V01.01";								//版本号
 
 //define bits
 #define LASER_EXP			1														//有激光照射为1
